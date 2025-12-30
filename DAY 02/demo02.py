@@ -1,0 +1,15 @@
+num=400
+print("num="+ str(num))
+print(f"type(num)={type(num)}")
+charcter='A'
+print("charcter="+ charcter)
+print(f"type(charcter)={type(charcter)}")
+str="sunbeam"
+print(f"str={str}")
+print("str="+ str)
+print(f"type(str)={type(str)}")
+pi=3.14
+print(f"pi = {pi}")
+status=True
+print(f"status={status}")
+print(f"type(status)={type(status)}")
